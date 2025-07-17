@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 张三
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Zhang San
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Li
+last_name: Ouyang
 
 # Status emoji
 status:
@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: PhD candidate in Institute for Network Sciences and Cyberspace (INSC) at Tsinghua University 
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
